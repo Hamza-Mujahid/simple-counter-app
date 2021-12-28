@@ -18,8 +18,4 @@ let reduce = () => {
       document.getElementById("number").innerHTML = 0;
       alert("Can not go less than zero");
    }
-   else if ( theNum = 0 ) {
-      document.getElementById("number").innerHTML = "Click to add";
-
-   }
 }
