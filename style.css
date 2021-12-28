@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/H8WuRINimqur8ud/black-numbers-background_b4eu7wk3_thumbnail-180_01.jpg);
+}
+div .number{
+    text-align: center;
+    margin: 50px;
+    font-size:30px;
+    color: #fff;
+    font-size: 50px;
+}
+div .button_boxes{
+    padding: 50px;
+    margin: 50px;
+}
+.button_boxes{
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    background: transparent;
+    color: #fff;
+    font-size:25px;
+    padding: 50px;
+    border: 2px solid #fff;
+    border-radius:50%;
+}
+button:hover{
+    background: transparent;
+    color: #0ff;
+    font-size:29px;
+    padding: 50px;
+    border: 2px solid #ff0;
+    border-radius:50%;
+}
+button:active{
+    background: transparent;
+    color: #ff0;
+    font-size:29px;
+    padding: 50px;
+    border: 2px solid #0ff;
+    border-radius:50%;
+}
